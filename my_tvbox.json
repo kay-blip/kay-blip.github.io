@@ -1,6 +1,42 @@
 {
     "warningText": "用户名:taojinma欢迎使用，祝您观影愉快",
-    "parses": [],
+    "parses": [
+        {
+            "name": "解析聚合",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
+            "name": "Json并发",
+            "type": 2,
+            "url": "Parallel"
+        },
+        {
+            "name": "Json轮询",
+            "type": 2,
+            "url": "Sequence"
+        },
+        {
+            "name": "极速解析",
+            "type": 0,
+            "url": "https://jx.m3u8.tv/jiexi/?url="
+        },
+        {
+            "name": "虾米解析",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url="
+        },
+        {
+            "name": "夜幕解析",
+            "type": 0,
+            "url": "https://jx.yemu.xyz/?url="
+        },
+        {
+            "name": "777解析",
+            "type": 0,
+            "url": "https://jx.777jiexi.com/player/?url="
+        }
+    ],
     "spider": "http://app.69mini.com/tvbox/nb.jpg",
     "sites": [
         {
