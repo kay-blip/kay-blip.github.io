@@ -1,12 +1,32 @@
 {
     "warningText": "已为您免费重构底层核心架构，永久告别收费限制！",
-    "spider": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/custom_spider.jar",
+    "spider": "https://kay-blip.github.io/spider.jar",
     "parses": [
-        {"name": "解析聚合", "type": 3, "url": "Demo"},
-        {"name": "极速解析", "type": 0, "url": "https://jx.m3u8.tv/jiexi/?url="},
-        {"name": "虾米解析", "type": 0, "url": "https://jx.xmflv.com/?url="},
-        {"name": "夜幕解析", "type": 0, "url": "https://jx.yemu.xyz/?url="},
-        {"name": "777解析", "type": 0, "url": "https://jx.777jiexi.com/player/?url="}
+        {
+            "name": "解析聚合",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
+            "name": "极速解析",
+            "type": 0,
+            "url": "https://jx.m3u8.tv/jiexi/?url="
+        },
+        {
+            "name": "虾米解析",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url="
+        },
+        {
+            "name": "夜幕解析",
+            "type": 0,
+            "url": "https://jx.yemu.xyz/?url="
+        },
+        {
+            "name": "777解析",
+            "type": 0,
+            "url": "https://jx.777jiexi.com/player/?url="
+        }
     ],
     "sites": [
         {
@@ -17,7 +37,33 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "categories": ["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "科幻片",
+                "恐怖片",
+                "爱情片",
+                "剧情片",
+                "战争片",
+                "记录片",
+                "国产剧",
+                "欧美剧",
+                "香港剧",
+                "韩国剧",
+                "台湾剧",
+                "日本剧",
+                "海外剧",
+                "泰国剧",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺"
+            ]
         },
         {
             "key": "csp_ryzy",
@@ -94,7 +140,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/bilibili.json"
+            "ext": "https://kay-blip.github.io/bilibili.json"
         }
     ]
 }
