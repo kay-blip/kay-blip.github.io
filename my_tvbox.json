@@ -1,29 +1,7 @@
 {
     "warningText": "用户名:taojinma欢迎使用，祝您观影愉快",
-    "parses": [
-        {
-            "name": "定制接口",
-            "type": "1",
-            "url": "http:\/\/vip.aidianying.sbs\/Smdy\/Baomihua?token=pQX3My1o&url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "yk",
-                    "优酷",
-                    "mgtv",
-                    "imgo",
-                    "芒果"
-                ]
-            }
-        }
-    ],
-    "spider": "http:\/\/app.69mini.com\/tvbox\/nb.jpg",
+    "parses": [],
+    "spider": "http://app.69mini.com/tvbox/nb.jpg",
     "sites": [
         {
             "key": "ttys",
@@ -32,8 +10,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "https:\/\/ghfast.top\/https:\/\/raw.githubusercontent.com\/woshishiq1\/hipy-drpy\/main\/bd\/ys\/\/js\/drpy2.min.js",
-            "ext": "http:\/\/117.50.201.231:666\/uploads\/tvbox\/add\/qq.js"
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/bd/ys//js/drpy2.min.js",
+            "ext": "http://117.50.201.231:666/uploads/tvbox/add/qq.js"
         },
         {
             "key": "mmmm",
@@ -42,14 +20,14 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "https:\/\/ghfast.top\/https:\/\/raw.githubusercontent.com\/woshishiq1\/hipy-drpy\/main\/bd\/ys\/\/js\/drpy2.min.js",
-            "ext": "http:\/\/117.50.201.231:666\/uploads\/tvbox\/add\/mg.js"
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/bd/ys//js/drpy2.min.js",
+            "ext": "http://117.50.201.231:666/uploads/tvbox/add/mg.js"
         },
         {
             "name": "🚀豆瓣｜嗷呜弹幕｜搜索自启",
             "key": "GoConfig",
             "type": 3,
-            "jar": "http:\/\/117.50.201.231:666\/uploads\/tvbox\/add\/awdm.png",
+            "jar": "http://117.50.201.231:666/uploads/tvbox/add/awdm.png",
             "api": "csp_GoConfigAmns",
             "indexs": 1,
             "searchable": 1,
@@ -61,8 +39,7 @@
             "key": "wanjiaryi",
             "name": "💖如意|2K",
             "type": 1,
-            "api": "https:\/\/cj.rycjapi.com\/api.php\/provide\/vod\/",
-            "playUrl": "json:http:\/\/vip.aidianying.sbs\/Smdy\/Baomihua?token=pQX3My1o&url=",
+            "api": "https://cj.rycjapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
@@ -75,21 +52,20 @@
                 "动作片",
                 "动画电影"
             ],
-            "ext": "https:\/\/cj.rycjapi.com\/api.php\/provide\/vod\/"
+            "ext": "https://cj.rycjapi.com/api.php/provide/vod/"
         },
         {
             "key": "hipy_js_优酷[官]",
             "name": "🔥酷酷|酷2k",
             "type": 3,
-            "api": "https:\/\/gitee.com\/zj521jj\/little-tiger-spot\/raw\/master\/drpy_libs\/drpy2.min.js",
-            "ext": "https:\/\/app.69mini.com\/lib1\/优酷[官].js"
+            "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
+            "ext": "https://app.69mini.com/lib1/优酷[官].js"
         },
         {
             "key": "csp_如意资源",
             "name": "🌀如意|2k",
             "type": 1,
-            "api": "http:\/\/cj.rycjapi.com\/api.php\/provide\/vod\/",
-            "playUrl": "json:http:\/\/vip.aidianying.sbs\/Smdy\/Baomihua?token=pQX3My1o&url=",
+            "api": "http://cj.rycjapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -120,8 +96,7 @@
             "key": "cjzy_暴风资源",
             "name": "🌀暴风┃1920",
             "type": 1,
-            "api": "https:\/\/bfzyapi.com\/api.php\/provide\/vod\/?ac=list",
-            "playUrl": "json:http:\/\/vip.aidianying.sbs\/Smdy\/Baomihua?token=pQX3My1o&url=",
+            "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
             "categories": [
                 "国产剧",
                 "国产动漫",
@@ -146,11 +121,10 @@
             "key": "量子",
             "name": "🌀量子|2k",
             "type": 1,
-            "api": "http:\/\/cj.lziapi.com\/api.php\/provide\/vod\/",
+            "api": "http://cj.lziapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "playUrl": "json:http:\/\/vip.aidianying.sbs\/Smdy\/Baomihua?token=pQX3My1o&url=",
             "categories": [
                 "国产剧",
                 "国产动漫",
@@ -172,8 +146,7 @@
             "key": "csp_非凡资源",
             "name": "🌀非凡|2k",
             "type": 1,
-            "api": "http:\/\/cj.ffzyapi.com\/api.php\/provide\/vod\/",
-            "playUrl": "json:http:\/\/vip.aidianying.sbs\/Smdy\/Baomihua?token=pQX3My1o&url=",
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -210,7 +183,7 @@
             "name": "♨️盘它｜4K视轨",
             "type": 3,
             "api": "csp_PanWebShareCloudPT",
-            "jar": "https:\/\/gitee.com\/cpu-iy\/lib\/raw\/master\/spider.jar",
+            "jar": "https://gitee.com/cpu-iy/lib/raw/master/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -223,7 +196,7 @@
             "name": "♨️追忆｜4K线路",
             "key": "NewNoxZy",
             "type": 3,
-            "jar": "http:\/\/117.50.201.231:666\/uploads\/tvbox\/add\/awdm.png",
+            "jar": "http://117.50.201.231:666/uploads/tvbox/add/awdm.png",
             "api": "csp_NewNoxAmns",
             "playerType": 2,
             "searchable": 1,
@@ -240,7 +213,7 @@
             "name": "♨️爱电影｜4K线路",
             "key": "NewNoxAdy",
             "type": 3,
-            "jar": "http:\/\/117.50.201.231:666\/uploads\/tvbox\/add\/awdm.png",
+            "jar": "http://117.50.201.231:666/uploads/tvbox/add/awdm.png",
             "api": "csp_NewNoxAmns",
             "playerType": 2,
             "searchable": 1,
@@ -257,7 +230,7 @@
             "name": "♨️幕悦｜4K线路",
             "key": "NewNoxMy",
             "type": 3,
-            "jar": "http:\/\/117.50.201.231:666\/uploads\/tvbox\/add\/awdm.png",
+            "jar": "http://117.50.201.231:666/uploads/tvbox/add/awdm.png",
             "api": "csp_NewNoxAmns",
             "playerType": 2,
             "searchable": 1,
@@ -277,21 +250,21 @@
             "api": "csp_AppQi",
             "searchable": 1,
             "changeable": 1,
-            "jar": "http:\/\/117.50.201.231:666\/uploads\/tvbox\/add\/spider.jar",
+            "jar": "http://117.50.201.231:666/uploads/tvbox/add/spider.jar",
             "ext": {
-                "url": "https:\/\/qj4.catbb.xyz",
+                "url": "https://qj4.catbb.xyz",
                 "dataKey": "eecbio48dsq13kkk",
                 "dataIv": "eecbio48dsq13kkk",
                 "search": "searchList4",
                 "init": "initV122",
-                "ua": "okhttp\/3.10.0"
+                "ua": "okhttp/3.10.0"
             }
         },
         {
             "key": "奇奇",
             "name": "♨️奇奇｜4K线路",
             "type": 3,
-            "jar": "http:\/\/117.50.201.231:666\/uploads\/tvbox\/add\/ok.png",
+            "jar": "http://117.50.201.231:666/uploads/tvbox/add/ok.png",
             "api": "csp_AweSomeGuard",
             "searchable": 1,
             "quickSearch": 1,
@@ -306,7 +279,7 @@
             "name": "♨️盘它｜4K视轨",
             "type": 3,
             "api": "csp_PanWebSharePT",
-            "jar": "http:\/\/117.50.201.231:666\/uploads\/tvbox\/add\/spider.jar",
+            "jar": "http://117.50.201.231:666/uploads/tvbox/add/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -319,14 +292,14 @@
             "key": "华数",
             "name": "🌀华数｜1920",
             "type": 3,
-            "api": "http:\/\/103.56.113.153:666\/uploads\/tvbox\/add\/%E5%8D%8E%E6%95%B0.py",
+            "api": "http://103.56.113.153:666/uploads/tvbox/add/%E5%8D%8E%E6%95%B0.py",
             "changeable": 1
         },
         {
             "key": "韩圈",
             "name": "🌀韩圈｜1920",
             "type": 3,
-            "jar": "http:\/\/117.50.201.231:666\/uploads\/tvbox\/add\/ok.png",
+            "jar": "http://117.50.201.231:666/uploads/tvbox/add/ok.png",
             "api": "csp_AweSomeGuard",
             "playerType": 2,
             "searchable": 1,
@@ -342,20 +315,20 @@
             "name": "🌀热门｜1280",
             "type": 3,
             "api": "csp_AppRJ",
-            "jar": "http:\/\/117.50.201.231:666\/uploads\/tvbox\/add\/spider.jar",
+            "jar": "http://117.50.201.231:666/uploads/tvbox/add/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
             "ext": {
-                "url": "http:\/\/v.rbotv.cn"
+                "url": "http://v.rbotv.cn"
             }
         },
         {
             "key": "酷酷",
             "name": "🌀酷炫｜1280",
             "type": 3,
-            "api": "http:\/\/gh.llkk.cc\/https:\/\/raw.githubusercontent.com\/IY-CPU\/IY\/main\/js\/drpy2.min.js",
-            "ext": "http:\/\/gh.llkk.cc\/https:\/\/raw.githubusercontent.com\/IY-CPU\/IY\/main\/js\/酷酷.js",
+            "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/js/drpy2.min.js",
+            "ext": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/js/酷酷.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
@@ -365,8 +338,8 @@
             "key": "奇奇",
             "name": "🌀奇异｜1280",
             "type": 3,
-            "api": "http:\/\/gh.llkk.cc\/https:\/\/raw.githubusercontent.com\/IY-CPU\/IY\/main\/js\/drpy2.min.js",
-            "ext": "http:\/\/gh.llkk.cc\/https:\/\/raw.githubusercontent.com\/IY-CPU\/IY\/main\/js\/奇奇.js",
+            "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/js/drpy2.min.js",
+            "ext": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/js/奇奇.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
@@ -376,7 +349,7 @@
             "key": "剧王短剧",
             "name": "🎬戏王｜短剧",
             "type": 3,
-            "api": "http:\/\/gh.llkk.cc\/https:\/\/raw.githubusercontent.com\/IY-CPU\/IY\/main\/py\/剧王短剧.py",
+            "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/py/剧王短剧.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -386,9 +359,9 @@
             "key": "py_嘶哩嘶哩",
             "name": "🌈嘶啵｜动漫",
             "type": 3,
-            "api": "http:\/\/gh.llkk.cc\/https:\/\/raw.githubusercontent.com\/IY-CPU\/IY\/main\/py\/skapp.py",
+            "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/py/skapp.py",
             "ext": {
-                "host": "http:\/\/gh.llkk.cc\/https:\/\/raw.githubusercontent.com\/IY-CPU\/IY\/main\/json\/api.json",
+                "host": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/json/api.json",
                 "key": "ygcnbcznazmyrbdn",
                 "iv": "6571230062143708"
             }
@@ -397,9 +370,9 @@
             "key": "py_2k动漫",
             "name": "🌈2k｜动漫",
             "type": 3,
-            "api": "http:\/\/gh.llkk.cc\/https:\/\/raw.githubusercontent.com\/IY-CPU\/IY\/main\/py\/skapp.py",
+            "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/py/skapp.py",
             "ext": {
-                "host": "http:\/\/gh.llkk.cc\/https:\/\/raw.githubusercontent.com\/IY-CPU\/IY\/main\/json\/dmapi.json",
+                "host": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/json/dmapi.json",
                 "key": "ygcnbcobcegtgigg",
                 "iv": "4058263969143708"
             }
@@ -410,9 +383,9 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "http:\/\/117.50.201.231:666\/uploads\/tvbox\/add\/spider.jar",
+            "jar": "http://117.50.201.231:666/uploads/tvbox/add/spider.jar",
             "ext": {
-                "url": "https:\/\/www.cyfz.vip",
+                "url": "https://www.cyfz.vip",
                 "dataKey": "e72cdfd629e8895d",
                 "dataIv": "e72cdfd629e8895d"
             }
@@ -422,9 +395,9 @@
             "name": "🌈漫邦丨动漫",
             "type": 3,
             "api": "csp_AppSy",
-            "jar": "http:\/\/117.50.201.231:666\/uploads\/tvbox\/add\/spider.jar",
+            "jar": "http://117.50.201.231:666/uploads/tvbox/add/spider.jar",
             "ext": {
-                "site": "https:\/\/dm-1255775577.cos.ap-guangzhou.myqcloud.com\/dmg\/api.txt",
+                "site": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt",
                 "siteKey": "rectangleadsadxa",
                 "listKey": "aassddwwxxllsx1x",
                 "parsesKey": "aassddwwxxllsx1x"
@@ -436,9 +409,9 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "http:\/\/117.50.201.231:666\/uploads\/tvbox\/add\/spider.jar",
+            "jar": "http://117.50.201.231:666/uploads/tvbox/add/spider.jar",
             "ext": {
-                "url": "https:\/\/new.app.bytegooty.com",
+                "url": "https://new.app.bytegooty.com",
                 "dataKey": "N4yj7l7xKxHF4*gz",
                 "dataIv": "N4yj7l7xKxHF4*gz"
             }
@@ -449,9 +422,9 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "http:\/\/117.50.201.231:666\/uploads\/tvbox\/add\/spider.jar",
+            "jar": "http://117.50.201.231:666/uploads/tvbox/add/spider.jar",
             "ext": {
-                "url": "https:\/\/www.gugu3.com",
+                "url": "https://www.gugu3.com",
                 "dataKey": "nKfZ8KX6JTNWRzTD",
                 "dataIv": "nKfZ8KX6JTNWRzTD"
             }
@@ -461,18 +434,18 @@
             "name": "🧲New6V｜磁力",
             "type": 3,
             "api": "csp_New6v",
-            "jar": "http:\/\/117.50.201.231:666\/uploads\/tvbox\/add\/spider.jar",
+            "jar": "http://117.50.201.231:666/uploads/tvbox/add/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https:\/\/www.xb6v.com"
+            "ext": "https://www.xb6v.com"
         },
         {
             "key": "电影天堂",
             "name": "🧲影殿｜磁力",
             "type": 3,
             "api": "csp_DyGod",
-            "jar": "http:\/\/117.50.201.231:666\/uploads\/tvbox\/add\/spider.jar",
+            "jar": "http://117.50.201.231:666/uploads/tvbox/add/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -482,25 +455,25 @@
             "name": "📻100┃听书",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "http:\/\/gh.llkk.cc\/https:\/\/raw.githubusercontent.com\/IY-CPU\/IY\/main\/json\/100听书.json",
-            "jar": "http:\/\/gh.llkk.cc\/https:\/\/raw.githubusercontent.com\/IY-CPU\/IY\/main\/jars\/xbpq.webp"
+            "ext": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/json/100听书.json",
+            "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/xbpq.webp"
         },
         {
             "key": "DG音乐仓",
             "name": "📚DG音乐台｜失败重进或刷新几次",
             "type": 3,
-            "jar": "http:\/\/gh.llkk.cc\/https:\/\/raw.githubusercontent.com\/IY-CPU\/IY\/main\/jars\/dg.webp",
+            "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/dg.webp",
             "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http:\/\/gh.llkk.cc\/https:\/\/raw.githubusercontent.com\/IY-CPU\/IY\/main\/jars\/dg.json"
+            "ext": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/dg.json"
         }
     ],
     "doh": [
         {
             "name": "阿里DNS",
-            "url": "https:\/\/dns.alidns.com\/dns-query",
+            "url": "https://dns.alidns.com/dns-query",
             "ips": [
                 "223.5.5.5",
                 "223.6.6.6"
@@ -508,7 +481,7 @@
         },
         {
             "name": "腾讯DNS",
-            "url": "https:\/\/doh.pub\/dns-query",
+            "url": "https://doh.pub/dns-query",
             "ips": [
                 "119.29.29.29",
                 "182.254.116.116"
