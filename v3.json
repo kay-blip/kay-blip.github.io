@@ -1,0 +1,191 @@
+{
+    "warningText": "已为您免费重构底层核心架构，永久告别收费限制！",
+    "spider": "https://kay-blip.github.io/spider.jar",
+    "parses": [
+        {
+            "name": "解析聚合",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
+            "name": "极速解析",
+            "type": 0,
+            "url": "https://jx.m3u8.tv/jiexi/?url="
+        },
+        {
+            "name": "虾米解析",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url="
+        },
+        {
+            "name": "夜幕解析",
+            "type": 0,
+            "url": "https://jx.yemu.xyz/?url="
+        },
+        {
+            "name": "777解析",
+            "type": 0,
+            "url": "https://jx.777jiexi.com/player/?url="
+        }
+    ],
+    "sites": [
+        {
+            "key": "csp_ffzy",
+            "name": "🔥腾腾|4K① (免费重构版)",
+            "type": 1,
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "科幻片",
+                "恐怖片",
+                "爱情片",
+                "剧情片",
+                "战争片",
+                "记录片",
+                "国产剧",
+                "欧美剧",
+                "香港剧",
+                "韩国剧",
+                "台湾剧",
+                "日本剧",
+                "海外剧",
+                "泰国剧",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺"
+            ]
+        },
+        {
+            "key": "csp_ryzy",
+            "name": "💖如意|2K",
+            "type": 1,
+            "api": "https://cj.rycjapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_lzzy",
+            "name": "🌀量子|2k",
+            "type": 1,
+            "api": "http://cj.lziapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_bfzy",
+            "name": "🌀暴风┃1920",
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_kuku",
+            "name": "🔥酷酷|酷2k",
+            "type": 3,
+            "api": "csp_AppVod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.kankanwu.com/"
+        },
+        {
+            "key": "csp_zxzj",
+            "name": "♨️盘它｜4K视轨",
+            "type": 3,
+            "api": "csp_AppVod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.zxzj.vip/"
+        },
+        {
+            "key": "csp_nangua",
+            "name": "♨️追忆｜4K线路",
+            "type": 3,
+            "api": "csp_AppVod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.ngys.tv/"
+        },
+        {
+            "key": "csp_xigua",
+            "name": "♨️爱电影｜4K线路",
+            "type": 3,
+            "api": "csp_AppVod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.xigua123.com/"
+        },
+        {
+            "key": "csp_bili",
+            "name": "🌈嘶啵｜动漫",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://kay-blip.github.io/bilibili.json"
+        },
+        {
+            "key": "csp_suoni",
+            "name": "🎬索尼|全高清",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_jisu",
+            "name": "🚀极速|蓝光",
+            "type": 1,
+            "api": "https://jszyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_baidu",
+            "name": "🌐百度|大合集",
+            "type": 1,
+            "api": "https://api.apibdzy.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_hongniu",
+            "name": "🐂红牛|抗压专线",
+            "type": 1,
+            "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_yinghua",
+            "name": "🌸樱花|无删减动漫",
+            "type": 1,
+            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }
+    ]
+}
