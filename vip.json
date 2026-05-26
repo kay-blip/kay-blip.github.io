@@ -186,6 +186,33 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "csp_ikun",
+            "name": "🐣iKun|极速直连",
+            "type": 1,
+            "api": "https://ikunzyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_wujin",
+            "name": "🌌无尽|海量库",
+            "type": 1,
+            "api": "https://api.wujinapi.me/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_ukuapi",
+            "name": "🎬优酷|双线路",
+            "type": 1,
+            "api": "https://api.ukuapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         }
     ]
 }
